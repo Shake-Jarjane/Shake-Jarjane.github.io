@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Blog List \ud83d\udef4","items":[{"title":"\u6d45\u8c08\u4e2a\u4eba\u5b66\u4e60\u65b9\u5f0f222","permalink":"/learning-style"}]}')}}]);
