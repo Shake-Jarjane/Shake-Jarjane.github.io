@@ -4,8 +4,8 @@
   <ShortName>Shake-Blog</ShortName>
   <Description>Search Shake-Blog</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://Shake-Jarjane.github.io/img/head.jpg</Image>
-  <Url type="text/html" method="get" template="https://Shake-Jarjane.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://Shake-Jarjane.github.io/opensearch.xml" />
-  <moz:SearchForm>https://Shake-Jarjane.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://Shaking.site/img/head.jpg</Image>
+  <Url type="text/html" method="get" template="https://Shaking.site/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://Shaking.site/opensearch.xml" />
+  <moz:SearchForm>https://Shaking.site/</moz:SearchForm>
 </OpenSearchDescription>
