@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2535],{5641:function(l){l.exports=JSON.parse('{"title":"Blog List \ud83d\udef4","items":[{"title":"Hello Blog","permalink":"/Hello-Blog"}]}')}}]);
