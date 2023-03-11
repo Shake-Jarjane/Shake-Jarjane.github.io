@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8103],{1941:function(n){n.exports=JSON.parse('{"title":"Linux","slug":"/category/linux","permalink":"/docs/category/linux","navigation":{"previous":{"title":"blank","permalink":"/docs/Stack/STM32/blank"},"next":{"title":"blank","permalink":"/docs/Stack/Linux/blank"}}}')}}]);
